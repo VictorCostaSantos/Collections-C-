@@ -1,0 +1,16 @@
+C:\Users\victo\Documents\Collections\cQueue\bin\Debug\net5.0\cQueue.exe
+C:\Users\victo\Documents\Collections\cQueue\bin\Debug\net5.0\cQueue.deps.json
+C:\Users\victo\Documents\Collections\cQueue\bin\Debug\net5.0\cQueue.runtimeconfig.json
+C:\Users\victo\Documents\Collections\cQueue\bin\Debug\net5.0\cQueue.runtimeconfig.dev.json
+C:\Users\victo\Documents\Collections\cQueue\bin\Debug\net5.0\cQueue.dll
+C:\Users\victo\Documents\Collections\cQueue\bin\Debug\net5.0\cQueue.pdb
+C:\Users\victo\Documents\Collections\cQueue\obj\Debug\net5.0\cQueue.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\Collections\cQueue\obj\Debug\net5.0\cQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Collections\cQueue\obj\Debug\net5.0\cQueue.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Collections\cQueue\obj\Debug\net5.0\cQueue.AssemblyInfo.cs
+C:\Users\victo\Documents\Collections\cQueue\obj\Debug\net5.0\cQueue.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Collections\cQueue\obj\Debug\net5.0\cQueue.dll
+C:\Users\victo\Documents\Collections\cQueue\obj\Debug\net5.0\refint\cQueue.dll
+C:\Users\victo\Documents\Collections\cQueue\obj\Debug\net5.0\cQueue.pdb
+C:\Users\victo\Documents\Collections\cQueue\obj\Debug\net5.0\cQueue.genruntimeconfig.cache
+C:\Users\victo\Documents\Collections\cQueue\obj\Debug\net5.0\ref\cQueue.dll

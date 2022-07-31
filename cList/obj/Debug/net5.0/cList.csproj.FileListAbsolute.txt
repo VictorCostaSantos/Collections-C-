@@ -1,0 +1,16 @@
+C:\Users\victo\Documents\Collections\cList\bin\Debug\net5.0\cList.exe
+C:\Users\victo\Documents\Collections\cList\bin\Debug\net5.0\cList.deps.json
+C:\Users\victo\Documents\Collections\cList\bin\Debug\net5.0\cList.runtimeconfig.json
+C:\Users\victo\Documents\Collections\cList\bin\Debug\net5.0\cList.runtimeconfig.dev.json
+C:\Users\victo\Documents\Collections\cList\bin\Debug\net5.0\cList.dll
+C:\Users\victo\Documents\Collections\cList\bin\Debug\net5.0\cList.pdb
+C:\Users\victo\Documents\Collections\cList\obj\Debug\net5.0\cList.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\Collections\cList\obj\Debug\net5.0\cList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Collections\cList\obj\Debug\net5.0\cList.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Collections\cList\obj\Debug\net5.0\cList.AssemblyInfo.cs
+C:\Users\victo\Documents\Collections\cList\obj\Debug\net5.0\cList.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Collections\cList\obj\Debug\net5.0\cList.dll
+C:\Users\victo\Documents\Collections\cList\obj\Debug\net5.0\refint\cList.dll
+C:\Users\victo\Documents\Collections\cList\obj\Debug\net5.0\cList.pdb
+C:\Users\victo\Documents\Collections\cList\obj\Debug\net5.0\cList.genruntimeconfig.cache
+C:\Users\victo\Documents\Collections\cList\obj\Debug\net5.0\ref\cList.dll

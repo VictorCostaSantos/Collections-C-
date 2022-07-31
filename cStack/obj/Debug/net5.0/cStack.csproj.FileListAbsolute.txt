@@ -1,0 +1,16 @@
+C:\Users\victo\Documents\Collections\cStack\bin\Debug\net5.0\cStack.exe
+C:\Users\victo\Documents\Collections\cStack\bin\Debug\net5.0\cStack.deps.json
+C:\Users\victo\Documents\Collections\cStack\bin\Debug\net5.0\cStack.runtimeconfig.json
+C:\Users\victo\Documents\Collections\cStack\bin\Debug\net5.0\cStack.runtimeconfig.dev.json
+C:\Users\victo\Documents\Collections\cStack\bin\Debug\net5.0\cStack.dll
+C:\Users\victo\Documents\Collections\cStack\bin\Debug\net5.0\cStack.pdb
+C:\Users\victo\Documents\Collections\cStack\obj\Debug\net5.0\cStack.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\Collections\cStack\obj\Debug\net5.0\cStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Collections\cStack\obj\Debug\net5.0\cStack.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Collections\cStack\obj\Debug\net5.0\cStack.AssemblyInfo.cs
+C:\Users\victo\Documents\Collections\cStack\obj\Debug\net5.0\cStack.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Collections\cStack\obj\Debug\net5.0\cStack.dll
+C:\Users\victo\Documents\Collections\cStack\obj\Debug\net5.0\refint\cStack.dll
+C:\Users\victo\Documents\Collections\cStack\obj\Debug\net5.0\cStack.pdb
+C:\Users\victo\Documents\Collections\cStack\obj\Debug\net5.0\cStack.genruntimeconfig.cache
+C:\Users\victo\Documents\Collections\cStack\obj\Debug\net5.0\ref\cStack.dll

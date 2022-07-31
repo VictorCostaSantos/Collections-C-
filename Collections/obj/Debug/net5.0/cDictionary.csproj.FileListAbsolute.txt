@@ -1,0 +1,16 @@
+C:\Users\victo\Documents\Collections\Collections\obj\Debug\net5.0\cDictionary.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\Collections\Collections\obj\Debug\net5.0\cDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Collections\Collections\obj\Debug\net5.0\cDictionary.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Collections\Collections\obj\Debug\net5.0\cDictionary.AssemblyInfo.cs
+C:\Users\victo\Documents\Collections\Collections\obj\Debug\net5.0\cDictionary.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Collections\Collections\bin\Debug\net5.0\cDictionary.exe
+C:\Users\victo\Documents\Collections\Collections\bin\Debug\net5.0\cDictionary.deps.json
+C:\Users\victo\Documents\Collections\Collections\bin\Debug\net5.0\cDictionary.runtimeconfig.json
+C:\Users\victo\Documents\Collections\Collections\bin\Debug\net5.0\cDictionary.runtimeconfig.dev.json
+C:\Users\victo\Documents\Collections\Collections\bin\Debug\net5.0\cDictionary.dll
+C:\Users\victo\Documents\Collections\Collections\bin\Debug\net5.0\cDictionary.pdb
+C:\Users\victo\Documents\Collections\Collections\obj\Debug\net5.0\cDictionary.dll
+C:\Users\victo\Documents\Collections\Collections\obj\Debug\net5.0\refint\cDictionary.dll
+C:\Users\victo\Documents\Collections\Collections\obj\Debug\net5.0\cDictionary.pdb
+C:\Users\victo\Documents\Collections\Collections\obj\Debug\net5.0\cDictionary.genruntimeconfig.cache
+C:\Users\victo\Documents\Collections\Collections\obj\Debug\net5.0\ref\cDictionary.dll
